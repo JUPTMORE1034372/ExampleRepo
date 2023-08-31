@@ -1,4 +1,5 @@
 
+
 a = "String 1"
 b = "String 2"
 print("a =" + a + " and  b=" + b)
@@ -15,3 +16,4 @@ job_list = {'john': 'doctor', 'jane': 'engineer', 'jim': 'teacher'}
 
 for name, job in job_list.items():
     print(f"{name} is a {job}")
+
